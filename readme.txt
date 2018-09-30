@@ -1,6 +1,6 @@
 first time. bug fix
 second time.
-third time.
+third time. bug fix third
 forth time.
 fifth time. bug fix
 master add.
