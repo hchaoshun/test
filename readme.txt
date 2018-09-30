@@ -8,7 +8,7 @@ sixth time.
 seventh time. bug fix
 eighth time.
 nineth time.
-tenth time.
+tenth time. bug fix tenth
 eleventh time.
 init rebase.
 add rebase.
